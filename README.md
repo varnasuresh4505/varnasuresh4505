@@ -1,4 +1,7 @@
 👋 Hi, I’m Varna!
+
 😄 Pronouns: she/her 
-⚡ Engineering student  
+
+⚡ Engineering student
+
 📫 How to reach me: varnasuresh4505@gmail.com
