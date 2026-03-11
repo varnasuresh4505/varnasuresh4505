@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=எல்லா%20புகழும்%20இறைவனுக்கே%20✝%20🕉%20☪&fontSize=32&fontColor=ffffff"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=blue&height=160&section=header&text=Pranesh's%20GitHub&fontSize=30&fontColor=ffffff"/>
-</p>
-
 <h2 align="center">👋 Hi there, I'm Varna</h2>
 
 <p align="center">
@@ -14,8 +9,7 @@
 ### 🚀 About Me
 
 I’m a **Pre-Final Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.  
-Passionate about **Machine Learning, NLP, Deep Learning, and Cloud Computing**, I enjoy building **AI-powered applications**, **automation tools**, and **cloud-integrated systems**.  
-I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experience with **AI Agents, LLMs, Vision Models, and Cloud Technologies**.
+I have experience with programming languages including **Java, Python, and C** as well as web technologies like **HTML, CSS, JavaScript, and React**. I enjoy solving complex problems and building innovative solutions.
 
 ---
 
@@ -27,7 +21,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=c,java,python,go&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=java,c,python,go&titles=true"
     />
   </a>
 </h3>
@@ -35,22 +29,11 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 <h3>
   <p>
-  <b> Full Stack</b>
+  <b> Web Technologies</b>
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,gradio,flask,fastapi,graphql,postgres,mysql,redis&titles=true"
-    />
-  </a>
-</h3>
-
-<h3>
-  <p>
-  <b>ML,DS&DL</b>
-</p>
-  <a href="#">
-    <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=numpy,pandas,matplotlib,sklearn,tensorflow,pytorch,opencv&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,react&titles=true"
     />
   </a>
 </h3>
@@ -68,37 +51,21 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 
 <h3>
   <p>
-  <b>Cloud & Deployment</b>
+  <b>Database & Version Control</b>
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=azure,linux,bash,docker,vercel,render,railway,huggingface,supabase&titles=true"
-    />
-  </a>
-</h3>
-
-
-<h3>
-  <p>
-  <b>IDE, Package Manager & Version Control</b>
-</p>
-  <a href="#">
-    <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,pycharm,intel,jupyter,googlecolab,pypi,git,github,gitlab&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,github,mongodb,mysql&titles=true"
     />
   </a>
 </h3>
 
 ---
 
-### 💼 Projects
+### 🚀 Projects
 
-- 📄 **PDF RAG:** Built a collaborative PDF-based Retrieval-Augmented Generation system with GPT-4.1 using Flask (backend) + Azure OpenAI + Next.js (frontend). Supports multi-user simultaneous querying for teamwork.  
-- 🎭 **DeepFake Video Detector:** Developed a detection system to classify AI-generated videos using **MTCNN + EfficientNetV2**, deployed with **Gradio** for interactive testing and feedback.  
-- 💬 **WhatsApp GPT-2 Tanglish Chatbot:** Designed a chat-based bot using GPT-2 with **QLoRA (4-bit quantization)** and **TF-IDF + Cosine Similarity** for Tanglish conversations, optimized for RTX 3050 (6GB).  
-- 😊 **Emotion Detection in Text using BERT:** Built an NLP pipeline with BERT for accurate sentiment/emotion classification and integrated with deployment-ready interfaces.  
-- ⚙️ **Day-to-Day Automation (MCP Servers):** Implemented automation workflows using MCP servers for intelligent task execution and system management.  
-
+- 📊 **Linkedin Profile Strength Analyzer:** A web application that analyze,evaluate a LinkedIn profile and provides improvement suggestions to help users optimize their profiles for better visibility to recruiters. Built using React.js for frontend, Flask backend, and LLM for analysis.
+- 🗓️ **Workforce Scheduling System:** Built a web-based system to manage employee work shifts efficiently. The application allows administrators to create, update, and assign schedules, while employees can view their assigned shifts. Implemented using React for frontend and REST APIs with backend integration for schedule management.
 ---
 
 ### 📜 Certifications
@@ -124,7 +91,7 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Pranesh-2005/Pranesh-2005/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/varnasuresh4505/varnasuresh4505/output/github-snake.svg"/>
 </p>
 
 ---
@@ -159,10 +126,8 @@ I’m proficient in **C, Java, Python (Basics), SQL**, and have hands-on experie
 ### 🔗 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/pranesh-2005" target="_blank"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/pranesh5264/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:praneshmadhan646@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://praneshjs.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/varnasuresh4505/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:varna.1045@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
