@@ -57,15 +57,6 @@ I have experience with programming languages including **Java, Python, and C** a
 - 🗓️ **Workforce Scheduling System:** Built a web-based system to manage employee work shifts efficiently. The application allows administrators to create, update, and assign schedules, while employees can view their assigned shifts. Implemented using React for frontend and REST APIs with backend integration for schedule management.
 ---
 
-### 🏅 Certifications
-
-- Machine Learning with Python – FreeCodeCamp  
-- Microsoft Applied Skills: Creating Intelligent Document Processing with Azure AI  
-- Microsoft Applied Skills: Building NLP Solutions with Azure AI Language  
-- Oracle AI Foundation Associate – Oracle  
-
----
-
 ### 🌟 Areas of Interest
 
 - Web development 
