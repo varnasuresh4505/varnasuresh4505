@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there, I'm Varna</h2>
 
 <p align="center">
-  🧑‍🎓 B.tech Pre-Final Year Student || 💡 Web Developer || 📍 Erode, India
+🧑‍🎓 B.Tech Pre-Final Year Student | 💡 Aspiring Web Developer | 📍 Erode, India
 </p>
 
 ---
@@ -9,11 +9,11 @@
 ### 👨‍💻 About Me
 
 I’m a **Pre-Final Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.  
-I have experience with programming languages including **Java, Python, and C** as well as web technologies like **HTML, CSS, JavaScript, and React**. I enjoy solving complex problems and building innovative solutions.
+I have experience with programming languages including **Java, Python, and C**, as well as web technologies such as **HTML, CSS, JavaScript, and React**. I enjoy solving complex problems and building innovative solutions.
 
 ---
 
-### 💡 Skills
+### 🛠️ Technical Skills
 
 <h3>
   <p>
@@ -21,7 +21,7 @@ I have experience with programming languages including **Java, Python, and C** a
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=java,c,python,go&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=java,c,python&titles=true"
     />
   </a>
 </h3>
@@ -29,7 +29,7 @@ I have experience with programming languages including **Java, Python, and C** a
 
 <h3>
   <p>
-  <b> Web Technologies</b>
+  <b>Web Technologies</b>
 </p>
   <a href="#">
     <img
@@ -40,7 +40,7 @@ I have experience with programming languages including **Java, Python, and C** a
 
 <h3>
   <p>
-  <b>Database & Version Controls</b>
+  <b>Tools, Databases & Version Control</b>
 </p>
   <a href="#">
     <img
@@ -53,16 +53,16 @@ I have experience with programming languages including **Java, Python, and C** a
 
 ### 📁 Projects
 
-- 📊 **Linkedin Profile Strength Analyzer:** A web application that analyze,evaluate a LinkedIn profile and provides improvement suggestions to help users optimize their profiles for better visibility to recruiters. Built using React.js for frontend, Flask backend, and LLM for analysis.
-- 🗓️ **Workforce Scheduling System:** Built a web-based system to manage employee work shifts efficiently. The application allows administrators to create, update, and assign schedules, while employees can view their assigned shifts. Implemented using React for frontend and REST APIs with backend integration for schedule management.
+- 📊 **LinkedIn Profile Strength Analyzer:** A web application that analyzes and evaluates a LinkedIn profile and provides improvement suggestions to help users optimize their profiles for better visibility to recruiters. Built using **React.js** for the frontend, **Flask** for the backend, and **LLM-based analysis** for evaluating profile strength.
+- 🗓️ **Workforce Scheduling System:** Developed a web-based system to efficiently manage employee work shifts. The application allows administrators to create, update, and assign schedules, while employees can view their assigned shifts. Implemented using React for frontend and REST APIs with backend integration for schedule management.
 ---
 
 ### 🌟 Areas of Interest
 
-- Web development 
-- Data Structures and algorithmic problem solving  
-- Database Management Systems  
-- Artificial Intelligence 
+- 🌐 Web Development
+- 🧩 Data Structures & Algorithms
+- 🗄️ Database Management Systems
+- 🤖 Artificial Intelligence
 
 ---
 
