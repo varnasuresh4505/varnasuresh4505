@@ -96,9 +96,10 @@ I have experience with programming languages including **Java, Python, and C** a
 
 ---
 
-![Varna's GitHub stats](https://github-readme-stats.vercel.app/api?username=varnasuresh4505&theme=dark&show_icons=true&&hide=issues,contribs)
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/varnasuresh4505?ext=contest&theme=dark)](https://leetcode.com/varnasuresh4505)
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=varnasuresh4505&theme=dark&show_icons=true&hide=issues,contribs"/>
+  <img height="180em" src="https://leetcard.jacoblin.cool/varnasuresh4505?theme=dark&ext=contest"/>
+</p>
 
 ### 👁 Profile Views
 
