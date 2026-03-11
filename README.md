@@ -1,19 +1,19 @@
 <h2 align="center">👋 Hi there, I'm Varna</h2>
 
 <p align="center">
-  🎓 Pre-Final Year B.Tech AI&  ML | 🧠 AI & Web Developer | 🌐 Erode, India
+  🧑‍🎓 Pre-Final Year B.Tech AIML | 💡 Web Developer | 📍 Erode, India
 </p>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
 I’m a **Pre-Final Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.  
 I have experience with programming languages including **Java, Python, and C** as well as web technologies like **HTML, CSS, JavaScript, and React**. I enjoy solving complex problems and building innovative solutions.
 
 ---
 
-### 🧠 My Skills
+### 💡 Skills
 
 <h3>
   <p>
@@ -40,17 +40,6 @@ I have experience with programming languages including **Java, Python, and C** a
 
 <h3>
   <p>
-  <b>LLM, GenAI & AI Agents</b>
-</p>
-  <a href="#">
-    <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=ollama,langchain,crewai,n8n,mcp&titles=true"
-    />
-  </a>
-</h3>
-
-<h3>
-  <p>
   <b>Database & Version Control</b>
 </p>
   <a href="#">
@@ -62,13 +51,13 @@ I have experience with programming languages including **Java, Python, and C** a
 
 ---
 
-### 🚀 Projects
+### 📁 Projects
 
 - 📊 **Linkedin Profile Strength Analyzer:** A web application that analyze,evaluate a LinkedIn profile and provides improvement suggestions to help users optimize their profiles for better visibility to recruiters. Built using React.js for frontend, Flask backend, and LLM for analysis.
 - 🗓️ **Workforce Scheduling System:** Built a web-based system to manage employee work shifts efficiently. The application allows administrators to create, update, and assign schedules, while employees can view their assigned shifts. Implemented using React for frontend and REST APIs with backend integration for schedule management.
 ---
 
-### 📜 Certifications
+### 🏅 Certifications
 
 - Machine Learning with Python – FreeCodeCamp  
 - Microsoft Applied Skills: Creating Intelligent Document Processing with Azure AI  
@@ -77,21 +66,19 @@ I have experience with programming languages including **Java, Python, and C** a
 
 ---
 
-### 🎯 Areas of Interest
+### 🌟 Areas of Interest
 
-- Artificial Intelligence & Machine Learning  
-- Generative AI & LLMs  
-- AI Agents & Automation  
-- Cloud Computing (Azure) & Docker  
-- Database Design & Vector Databases (ChromaDB)  
-- Intelligent Automation  
+- Web development 
+- Data Structures and algorithmic problem solving  
+- Database Management Systems  
+- Artificial Intelligence 
 
 ---
 
 ### 🐍 GitHub Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/varnasuresh4505/varnasuresh4505/output/github-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/varnasuresh4505/varnasuresh4505/output/github-snake.svg" alt="GitHub Snake Animation"/>
 </p>
 
 ---
@@ -101,15 +88,9 @@ I have experience with programming languages including **Java, Python, and C** a
   <img height="180em" src="https://leetcard.jacoblin.cool/varnasuresh4505?theme=dark&ext=contest"/>
 </p>
 
-### 👁 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=varnasuresh4505&label=Profile%20views&color=0e75b6&style=flat" alt="varnasuresh4505" />
-</p>
-
 ---
 
-### 🔗 Connect with Me
+### 📩 Ping Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/varnasuresh4505/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -118,7 +99,4 @@ I have experience with programming languages including **Java, Python, and C** a
 
 ---
 
-<p align="center">
-  💻 Always open to collaborating on exciting **AI, ML, or Cloud-based projects**. Let’s innovate together!
-</p>
 
