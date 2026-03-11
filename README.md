@@ -66,7 +66,7 @@ I have experience with programming languages including **Java, Python, and C** a
 
 ---
 
-### 🐍 GitHub Snake
+### 🐍 GitHub Contribution Snake
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/varnasuresh4505/varnasuresh4505/output/github-snake.svg" alt="GitHub Snake Animation"/>
