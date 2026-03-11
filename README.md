@@ -21,7 +21,7 @@ I have experience with programming languages including **Java, Python, and C**, 
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=java,c,python,go&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=java,c,python&titles=true"
     />
   </a>
 </h3>
