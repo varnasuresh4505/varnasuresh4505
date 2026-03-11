@@ -96,18 +96,9 @@ I have experience with programming languages including **Java, Python, and C** a
 
 ---
 
-### 📊 GitHub Stats
+![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=varnasuresh4505&theme=dark&show_icons=true&&hide=issues,contribs)
 
-![Stats](./profile/stats.svg)  
-![Top Langs](./profile/top-langs.svg)  
-
----
-
-### 🔥 Contribution Streak
-
-![Streak](./profile/streak.svg)
-
----
+[![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/varnasuresh4505)
 
 ### ⏲ WakaTime Stats
 
@@ -135,3 +126,4 @@ I have experience with programming languages including **Java, Python, and C** a
 <p align="center">
   💻 Always open to collaborating on exciting **AI, ML, or Cloud-based projects**. Let’s innovate together!
 </p>
+
