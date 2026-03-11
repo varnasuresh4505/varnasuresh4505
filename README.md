@@ -15,26 +15,42 @@ I have experience with programming languages including **Java, Python, and C**, 
 
 ### 🛠️ Technical Skills
 
-<h4>Programming Languages</h4>
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,c,python" />
+<h3>
+  <p>
+  <b>Programming Language</b>
 </p>
-
-
-<h4>Web Technologies</h4>
-  <p align="center">
+  <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,react&perline=3"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=java,c,python,go&titles=true"
     />
-  </p>
+  </a>
+</h3>
 
-<h4>Tools, Databases & Version Control</h4>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,mongodb,mysql"/>
+<h3>
+  <p>
+  <b> Web Technologies</b>
 </p>
+  <a href="#">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,react&titles=true"
+    />
+  </a>
+</h3>
+
+<h3>
+  <p>
+  <b>Database & Version Control</b>
+</p>
+  <a href="#">
+    <img
+      src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,github,mongodb,mysql&titles=true"
+    />
+  </a>
+</h3>
 
 ---
+
 
 ### 📁 Projects
 
