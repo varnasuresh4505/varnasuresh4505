@@ -15,21 +15,20 @@ I have experience with programming languages including **Java, Python, and C**, 
 
 ### 🛠️ Technical Skills
 
-<h2 align="center">Programming Languages</h2>
-
+<h4>Programming Languages</h4>
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,c,python" />
 </p>
 
 
-<h2 align="center">Web Technologies</h2>
+<h4>Web Technologies</h4>
   <p align="center">
     <img
       src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,react&perline=3"
     />
   </p>
 
-<h2 align="center">Tools, Databases & Version Control</h2>
+<h4>Tools, Databases & Version Control</h4>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,github,mongodb,mysql"/>
