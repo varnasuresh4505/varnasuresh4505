@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there, I'm Varna</h2>
 
 <p align="center">
-  🧑‍🎓 Pre-Final Year B.Tech AIML | 💡 Web Developer | 📍 Erode, India
+  🧑‍🎓 B.tech Pre-Final Year Student || 💡 Web Developer || 📍 Erode, India
 </p>
 
 ---
@@ -17,7 +17,7 @@ I have experience with programming languages including **Java, Python, and C** a
 
 <h3>
   <p>
-  <b>Programming Language</b>
+  <b>Programming Languages</b>
 </p>
   <a href="#">
     <img
@@ -40,7 +40,7 @@ I have experience with programming languages including **Java, Python, and C** a
 
 <h3>
   <p>
-  <b>Database & Version Control</b>
+  <b>Database & Version Controls</b>
 </p>
   <a href="#">
     <img
