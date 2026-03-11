@@ -21,7 +21,7 @@ I have experience with programming languages including **Java, Python, and C**, 
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=java,c,python&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=java,c,python&perline=3"
     />
   </a>
 </h3>
@@ -33,7 +33,7 @@ I have experience with programming languages including **Java, Python, and C**, 
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,react&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=html,css,js,react&perline=3"
     />
   </a>
 </h3>
@@ -44,7 +44,7 @@ I have experience with programming languages including **Java, Python, and C**, 
 </p>
   <a href="#">
     <img
-      src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,github,mongodb,mysql&titles=true"
+      src="https://skill-icons-fast.vercel.app/api/icons?i=vscode,github,mongodb,mysql&perline=3"
     />
   </a>
 </h3>
