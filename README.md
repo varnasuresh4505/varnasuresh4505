@@ -118,7 +118,7 @@ I have experience with programming languages including **Java, Python, and C** a
 ### 👁 Profile Views
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pranesh-2005&label=Profile%20views&color=0e75b6&style=flat" alt="Pranesh-2005" />
+  <img src="https://komarev.com/ghpvc/?username=varnasuresh4505&label=Profile%20views&color=0e75b6&style=flat" alt="varnasuresh4505" />
 </p>
 
 ---
