@@ -8,7 +8,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a **Pre-Final Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.  
+I’m a **Final Year B.Tech student** specializing in **Artificial Intelligence and Machine Learning** at **Bannari Amman Institute of Technology**.  
 I have experience with programming languages including **Java, Python, and C**, as well as web technologies such as **HTML, CSS, JavaScript, and React**. I enjoy solving complex problems and building innovative solutions.
 
 ---
