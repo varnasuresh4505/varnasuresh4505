@@ -1,7 +1,7 @@
 <h2 align="center">👋 Hi there, I'm Varna</h2>
 
 <p align="center">
-🧑‍🎓 B.Tech Pre-Final Year Student | 💡 Aspiring Web Developer | 📍 Erode, India
+🧑‍🎓 B.Tech Final Year Student | 💡 Aspiring Web Developer | 📍 Erode, India
 </p>
 
 ---
