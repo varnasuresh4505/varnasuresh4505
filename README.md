@@ -1,5 +1,4 @@
 <h2 align="center">👋 Hi there, I'm Varna!</h2>
----
 
 ### 👨‍💻 About Me
 
