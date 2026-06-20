@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hi there, I'm Varna</h2>
+<h2 align="center">👋 Hi there, I'm Varna!</h2>
 ---
 
 ### 👨‍💻 About Me
@@ -61,7 +61,7 @@ I have experience with programming languages including **Java, Python, and C**, 
 - 🤖 Artificial Intelligence
 
 ---
-
+### 💻 Leetcode Profile
 <p align="center">
   <img height="180em" src="https://leetcard.jacoblin.cool/varnasuresh4505?theme=dark&ext=contest"/>
 </p>
