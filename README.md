@@ -62,7 +62,7 @@ I have experience with programming languages including **Java, Python, and C**, 
 ---
 ### 💻 Leetcode Profile
 <p align="center">
-  <img height="180em" src="https://leetcard.jacoblin.cool/varnasuresh4505?theme=dark&ext=contest"/>
+  <img height="180em" src="https://leetcard.jacoblin.cool/varna-s?theme=dark&ext=contest"/>
 </p>
 
 ---
